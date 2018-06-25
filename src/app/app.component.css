@@ -1,0 +1,11 @@
+.h1, h1 {
+    font-size: 20px !important;
+}
+.box{
+	border: 1px solid lightgray;
+    /* margin-top: 5px; */
+    padding-top: 10px;
+    border-radius: 8px;
+    height: 238px;
+        overflow: auto;
+}
